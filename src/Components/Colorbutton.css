@@ -1,0 +1,9 @@
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 20%;
+    height: 200px;
+    margin: 1rem;
+}
